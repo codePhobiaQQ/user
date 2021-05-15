@@ -1,6 +1,6 @@
 {
    "texts": [
-       "first": "ahahha",
-       "second": "ahahah"
-    ]
+      {"first": "ahahha"},
+      {"second": "ahahah"}
+   ]
 }
